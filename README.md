@@ -2,7 +2,7 @@
 # Sales Dynamics & Customer Segmentation Analysis
 
 ## Project Overview
-This project provides a comprehensive analysis of sales trends and customer segmentation.  
+This project provides a comprehensive analysis of sales trends and key metrics.  
 It leverages Python and key libraries to extract actionable insights for inventory optimization and marketing effectiveness.
 
 **Key Objectives:**
